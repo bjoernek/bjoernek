@@ -9,7 +9,7 @@
 
   - mathematical modelling for governance, market design, and financial risk
   - tokenomics and decentralized protocols
-  - formal methods and machine-checked mathematics
+  - machine-checked mathematics
 
   ## Selected projects
 
