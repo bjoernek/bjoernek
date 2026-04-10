@@ -1,16 +1,18 @@
-## Hi there 👋
+  ## Hi, I'm Björn
 
-<!--
-**bjoernek/bjoernek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  I am a computational mathematician working at the intersection of governance engineering, tokenomics, risk modelling, and formal reasoning.
 
-Here are some ideas to get you started:
+  Currently I am `Staff Engineer, Team Lead (Governance Engineering)` at DFINITY, where I lead the team responsible for the Network Nervous System (NNS), the
+  on-chain governance system of the Internet Computer. I also teach stress testing of banks as a Visiting Lecturer at the University of Zurich.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Interests
+
+  - mathematical modelling for governance, market design, and financial risk
+  - tokenomics and decentralized protocols
+  - formal methods and machine-checked mathematics
+
+  ## Selected projects
+
+  - [`amm-axioms-lean`](https://github.com/bjoernek/amm-axioms-lean)
+  - [`icp-m70-reward-simulator`](https://github.com/bjoernek/icp-m70-reward-simulator)
+  - [`multi_chain_voting`](https://github.com/bjoernek/multi_chain_voting)
